@@ -1,2 +1,2 @@
 # invie-github
-Proyecto invie git
+Proyecto invie git by @platzi
